@@ -20,6 +20,6 @@ I'm Varun, programmer and musician from Massachusetts. I'm currently looking for
 * MongoDB
 * MySQL
 
-On my personal website, you can find my [portfolio](https://www.varun.pro/projects) and [blog](https://www.varun.pro/blog). At the moment, I am re-learning some Java and documenting my journey with the Processing application, and I intend to move over to p5.js once I have a better handle of creative coding.
+On my personal website, you can find my [portfolio](https://www.varun.pro/projects) and [blog](https://www.varun.pro/blog). 
 
 Feel free to email me at [vanadgir@gmail.com](mailto:vanadgir@gmail.com) 
