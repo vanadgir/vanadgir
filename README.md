@@ -8,23 +8,26 @@ I'm Varun, programmer and musician from Massachusetts. I'm currently looking for
 * Senior Associate, Operations & IT at Beacon Pointe Wealth Advisors
 
 ### Tools & Technologies
-#### Graphics & Technical Art
-* Unreal Engine + Blueprints
+#### Game Dev / Computer Graphics
+* Unity / C#
+* Unreal Engine / C++ / Blueprints
 * Blender
 * Three.js
 * Processing / p5js
   
-#### Web Dev
-* HTML/CSS/JS
+#### Web
+* HTML / CSS / JS
 * React
 * Node
 * MongoDB
 * MySQL
 
-#### Data
+#### Analytics
 * SQL
 * R
 * Python
+* PowerBI
+* Tableau
   
 On my personal website, you can find my [portfolio](https://www.varun.pro/projects) and [blog](https://www.varun.pro/blog). 
 
