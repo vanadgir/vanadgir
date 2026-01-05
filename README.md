@@ -1,5 +1,5 @@
 # Welcome!
-I'm Varun, programmer and musician from Massachusetts. I'm currently looking for work in software engineering, technical art, or data analytics, and you can find me tinkering on interesting projects here in the meantime!
+I'm Varun, programmer and musician from Massachusetts. I'm currently looking for work in software engineering, game development, or data analytics, and you can find me tinkering on interesting projects here in the meantime!
 
 ### Background
 * MS Computer Science
